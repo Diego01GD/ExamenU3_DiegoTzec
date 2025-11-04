@@ -59,7 +59,7 @@ header{
 .hero{
   color: white;
   height: 503px;
-  background-image: url("./img/foto_slide.jpg");
+  background-image: url("../img/foto_slide.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;
